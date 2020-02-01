@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome fib calculator
         </p>
         <Link to="/">Home</Link>
         <Link to ="/otherpage">Otehr Page</Link>
